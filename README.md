@@ -1,0 +1,2 @@
+# Panaroma
+ Panaromic images
