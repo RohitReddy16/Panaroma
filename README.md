@@ -1,5 +1,4 @@
 # Panorama
- Panoramic images
 Stitching the images to create the panoramic.
 
 ## Problem Statement
