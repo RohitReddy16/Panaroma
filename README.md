@@ -9,6 +9,7 @@ You are given four images which were taken from the same camera position (only r
 1. Download the folder as zip and extract it or git clone "https://github.com/RohitReddy16/Panaroma"
 2. Open "Panoromic.py" and run it 
     Libraries used:
+        
         1. OpenCV; import cv2
         2. Numpy; import numpy
 
